@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mv .Xmodmap ~/
-mv .vimrc ~/
+cp .Xmodmap ~/
+cp .vimrc ~/
